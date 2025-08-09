@@ -21,7 +21,7 @@ export default function Home() {
       {/* Header/Navigation */}
       <header className="w-full px-4 py-6 lg:px-8">
         <nav className="max-w-7xl mx-auto flex items-center justify-between">
-          <div className="text-xl md:text-2xl font-bold text-white hover:scale-105 transition-transform duration-300">Genz Wallet</div>
+          <div className="text-xl md:text-2xl font-bold text-white hover:scale-105 transition-transform duration-300">Smart Naira</div>
           <div className="hidden md:flex items-center space-x-6 lg:space-x-8">
             <a href="#features" className="text-white hover:text-blue-400 transition-all duration-300 hover:scale-105">Features</a>
             <a href="#about" className="text-white hover:text-blue-400 transition-all duration-300 hover:scale-105">About</a>
